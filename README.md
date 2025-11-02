@@ -2,9 +2,9 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#00bfff;">Todzxx</span></h1>
 
 ---
-
-  <img align="center" src="https://media1.tenor.com/m/7UJzxRKclosAAAAC/noot-noot.gif" />
-
+<div align="center" ><img src="https://media1.tenor.com/m/7UJzxRKclosAAAAC/noot-noot.gif"
+ whidt="50 "                    />
+</div>
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🛠️ Tech Stack
