@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00bfff;">Todzxx</span></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Front-End+Developer+💻;Tech+Explorer+🚀;Always+Learning+New+Things+🌱" alt="Typing SVG" />
-</p>
+---
+
+  <img align="center" src="https://media1.tenor.com/m/7UJzxRKclosAAAAC/noot-noot.gif" />
 
 ---
 
