@@ -1,13 +1,14 @@
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#00bfff;">Todzxx</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#00bfff;">Haryanto</span></h1>
 
 ---
 <div align="center" ><img src="https://media1.tenor.com/m/7UJzxRKclosAAAAC/noot-noot.gif"
- whidt="50 "                    />
+ whidt="800"
+ style="border-radius:20px; box-shadow: 0px 0px 30px rgba(255,215,0,0.9);"                     />
 </div>
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
 **Languages & Tools I Use:**
 
 ### 💻 Programming & Scripting
@@ -36,12 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todzxx&layout=compact&theme=tokyonight" alt="Top languages" height="165" />
 </p>
 
----
-
-## 🧠 Fun Facts
-💡 I enjoy learning through hands-on projects<br>
-🎮 I sometimes code while listening to game soundtracks<br>
-🧋 My favorite coding snack: *Cimol pedas level dewa* 🌶️😄
 
 ---
 
@@ -75,4 +70,4 @@
 
 ---
 
-⭐ *"Code. Create. Inspire."*
+⭐ *"If you're stressed, just scream 'jembut'"*
