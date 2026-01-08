@@ -33,42 +33,47 @@
 ---
 ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Todzxx&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todzxx&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Todzxx&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todzxx&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
 </p>
-
-
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/todzxx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/todzxx">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/todzxx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/todzxx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/Todzxx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🎶 Now Playing on Spotify
-<p align="center">
-  <a href="https://open.spotify.com/track/4PcdxWQj2vIjJ3s4ZnPnvZ?si=example" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Todzxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true" alt="Spotify Now Playing" />
+  <a href="https://github.com/Todzxx">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+## 🎶 Spotify Now Playing
+> ⚠️ Ganti `SPOTIFY_USER_ID_KAMU` dengan **Spotify User ID asli**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Todzxx&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_USER_ID_KAMU&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117"/>
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Todzxx&theme=tokyonight&no-frame=true&row=1&margin-w=15&cache_seconds=86400"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Todzxx/Todzxx/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ⭐ *"If you're stressed, just scream 'jembut'"*
