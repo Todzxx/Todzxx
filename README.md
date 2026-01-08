@@ -33,37 +33,41 @@
 ---
 ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Todzxx&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todzxx&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Todzxx&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todzxx&layout=compact&theme=tokyonight" alt="Top languages" height="165" />
 </p>
+
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/todzxx">
+  <a href="https://linkedin.com/in/todzxx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/todzxx">
+  <a href="https://instagram.com/todzxx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/Todzxx">
+  <a href="https://github.com/Todzxx" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎶 Spotify Now Playing
+## 🎶 Now Playing on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31czjnbgflmxslttzrxtrqfhm6am_image=true&theme=novatorem&show_offline=false&background_color=0d1117" />
+  <a href="https://open.spotify.com/track/4PcdxWQj2vIjJ3s4ZnPnvZ?si=example" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Todzxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true" alt="Spotify Now Playing" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Todzxx&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Todzxx&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
+---
 
 ⭐ *"If you're stressed, just scream 'jembut'"*
