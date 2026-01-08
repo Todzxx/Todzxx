@@ -54,15 +54,6 @@
 
 ---
 
-## 🎶 Spotify Now Playing
-> ⚠️ Ganti `SPOTIFY_USER_ID_KAMU` dengan **Spotify User ID asli**
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_USER_ID_KAMU&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Todzxx&theme=tokyonight&no-frame=true&row=1&margin-w=15&cache_seconds=86400"/>
