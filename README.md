@@ -33,9 +33,10 @@
 ---
 ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Todzxx&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todzxx&layout=compact&theme=tokyonight" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Todzxx&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todzxx&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" />
 </p>
+
 
 
 ---
