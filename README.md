@@ -44,7 +44,7 @@
   <a href="https://linkedin.com/in/todzxx">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/toxd___">
+  <a href="https://www.instagram.com/toxd____/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/Todzxx">
@@ -61,10 +61,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Todzxx/Todzxx/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 ⭐ *"If you're stressed, just scream 'jembut'"*
