@@ -31,10 +31,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  GitHub Stats
+##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  PLENGER 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Todzxx&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todzxx&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzAwOWJkdXh2cmYzcmMzcTdzZ2t2cWpiMTdzdDc4cTB3dThhdjVobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rieB6hYg1l15KrJJnk/giphy.gif" height="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnNWJleTM2M3M0ZHpmMzdmN295Zm53dno0emt4bmgycmk2ZXYzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SYeAP17mD2FOIR2CzR/giphy.gif" height="500"/>
+ <img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV2MTJvMW8yYWxtbm1tdTFoajJ4em1kcWY2cGZmeG1rYnZ3amF5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e6PwP26WNDO3bBVQ2t/giphy.gif"
+  height="240"/>
 </p>
 
 ---
@@ -53,14 +56,5 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Todzxx&theme=tokyonight&no-frame=true&row=1&margin-w=15&cache_seconds=86400"/>
-</p>
-
----
-
-
 
 ⭐ *"If you're stressed, just scream 'jembut'"*
