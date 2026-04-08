@@ -31,15 +31,19 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  PLENGER 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzAwOWJkdXh2cmYzcmMzcTdzZ2t2cWpiMTdzdDc4cTB3dThhdjVobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rieB6hYg1l15KrJJnk/giphy.gif" height="500"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnNWJleTM2M3M0ZHpmMzdmN295Zm53dno0emt4bmgycmk2ZXYzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SYeAP17mD2FOIR2CzR/giphy.gif" height="500"/>
- <img
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV2MTJvMW8yYWxtbm1tdTFoajJ4em1kcWY2cGZmeG1rYnZ3amF5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e6PwP26WNDO3bBVQ2t/giphy.gif"
-  height="240"/>
-</p>
+##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  LEGENDA
+<div align="center">
 
+## 🎧 ????? 🎶
+
+[![Now Playing](https://img.youtube.com/vi/HquFbKYvWtI/0.jpg)](https://youtu.be/HquFbKYvWtI)
+
+<br>
+
+✨ Click the thumbnail to play ✨  
+🎵 Enjoy the vibe
+
+</div>
 ---
 
 ## 🌐 Connect with Me
