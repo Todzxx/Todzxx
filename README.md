@@ -28,7 +28,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-darkblue?style=for-the-badge&logo=prisma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
