@@ -86,4 +86,8 @@
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=Todzxx&label=Profile%20views&color=00FFFF&style=flat-square" alt="Todzxx's profile views" />
+
+
+
 ⭐ *"If you're stressed, just scream 'jembut'"*
