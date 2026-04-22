@@ -56,22 +56,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
-![Top language](https://stats.pphat.top/languages?username=Todzxx)
-
-
----
 ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  LEGENDA
 <div align="center">
 
-## 🎧 ????? 🎶
-
-[![Now Playing](https://img.youtube.com/vi/HquFbKYvWtI/0.jpg)](https://youtu.be/HquFbKYvWtI)
-
-<br>
-
-✨ Click the thumbnail to play ✨  
-🎵 Enjoy the vibe
+![Top language](https://stats.pphat.top/languages?username=Todzxx)
 
 </div>
 ---
