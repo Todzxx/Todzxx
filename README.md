@@ -56,7 +56,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  LEGENDA
+##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  TOP LANGUAGE
 <div align="center">
 
 ![Top language](https://stats.pphat.top/languages?username=Todzxx)
