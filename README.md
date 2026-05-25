@@ -6,57 +6,31 @@
  whidt="800"
  style="border-radius:20px; box-shadow: 0px 0px 30px rgba(255,215,0,0.9);"                     />
 </div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,linux,windows,vscode,git,github,postman" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CSS-advanced-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-intermediate-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-intermediate-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Linux-dual%20OS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-daily%20user-0078D6?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Git-intermediate-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-active-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Postman-API%20testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+</p>
 
 ---
 
-## 📚 Currently Learning
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HeroUI](https://img.shields.io/badge/HeroUI-v3-000000?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-darkblue?style=for-the-badge&logo=prisma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-## 🧪 Have Tried
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
-
-
-
-
----
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Antigraviti](https://img.shields.io/badge/Antigraviti-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-### 🐧 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-29AB87?style=for-the-badge&logo=parrot-security&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  TOP LANGUAGE
+##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">TOP LANGUAGE
 <div align="center">
 
 ![Top language](https://stats.pphat.top/languages?username=Todzxx)
