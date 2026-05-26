@@ -11,15 +11,17 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
 
-<p align="left">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,linux,windows,vscode,git,github,postman" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/CSS-advanced-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-intermediate-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-intermediate-3178C6?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python" />
+ 
   <img src="https://img.shields.io/badge/Linux-dual%20OS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-daily%20user-0078D6?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/Git-intermediate-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -28,7 +30,9 @@
 </p>
 </p>
 
+
 ---
+
 
 ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">TOP LANGUAGE
 <div align="center">
@@ -36,7 +40,10 @@
 ![Top language](https://stats.pphat.top/languages?username=Todzxx)
 
 </div>
+
+
 ---
+
 
 ## 🌐 Connect with Me
 <p align="center">
