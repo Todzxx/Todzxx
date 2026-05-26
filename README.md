@@ -12,7 +12,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,linux,windows,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,linux,windows,vscode,git,github,postman" />
 </p>
 
 <p align="left">
