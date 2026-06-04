@@ -64,4 +64,4 @@
 
 
 
-⭐j *"If you're stressed, just scream 'jembut'"*
+⭐*"If you're stressed, just scream 'jembut'"*
