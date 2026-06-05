@@ -4,7 +4,7 @@
 ---
 <div align="center" ><img src="https://media1.tenor.com/m/7UJzxRKclosAAAAC/noot-noot.gif"
  whidt="800"
- style="border-radius:20px; box-shadow: 0px 0px 30px rgba(255,215,0,0.9);"                     />
+ style="border-radius:20px; box-shadow: 0px 0px 30px rgba(255,215,0,0.9);"/>
 </div>
 
 ---
